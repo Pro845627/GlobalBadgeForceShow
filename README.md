@@ -1,5 +1,5 @@
 # Description
-* Prevents server plugins from changing global badges of players'
+* Prevents server plugins from changing global badges of players
 # 描述
 * 防止服务器插件修改玩家的全球称号
 
