@@ -36,7 +36,7 @@ namespace GlobalBadgeForceShow
             {
                 if (Player.Get(cmm.UserId).GlobalBadge.HasValue)
                 {
-                    Log.Warn("不可修改拥有全球称号玩家的称号！");
+                    Log.Warn("Changing a player's badge who has global badge is not allowed!");
                     return false;
                 }
             }
