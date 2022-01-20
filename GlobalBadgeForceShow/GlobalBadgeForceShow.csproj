@@ -61,10 +61,6 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\CdcpServerCorePlugin\DllDependencies\Assembly-CSharp_publicized.dll</HintPath>
     </Reference>
-    <Reference Include="BouncyCastle.Crypto, Version=1.8.6.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Users\g2546\Downloads\Compressed\ReferencePublicBeta\BouncyCastle.Crypto.dll</HintPath>
-    </Reference>
     <Reference Include="CommandSystem.Core, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>C:\Users\g2546\Downloads\Compressed\ReferencePublicBeta\CommandSystem.Core.dll</HintPath>
