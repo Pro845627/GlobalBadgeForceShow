@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 using HarmonyLib;
 using RemoteAdmin;
 using CommandSystem;
+using Exiled.API.Interfaces;
 
 namespace GlobalBadgeForceShow
 {
@@ -26,7 +27,8 @@ namespace GlobalBadgeForceShow
         }
     }
 
-    [HarmonyPatch(typeof(ServerRoles), "SetText")]
+    [HarmonyPatch(typeof(ServerRoles), nameof(ServerRoles.SetText))]
+    [HarmonyPatch(typeof(ServerRoles), nameof(ServerRoles.SetColor))]
     public static class EventHandlers
     {
         public static bool Prefix(ref ServerRoles __instance, string i)

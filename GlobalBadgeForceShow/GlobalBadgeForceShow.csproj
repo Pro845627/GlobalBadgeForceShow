@@ -59,7 +59,7 @@
     </Reference>
     <Reference Include="Assembly-CSharp_publicized, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Users\g2546\Downloads\Compressed\ReferencePublicBeta\Assembly-CSharp_publicized.dll</HintPath>
+      <HintPath>..\..\..\..\CdcpServerCorePlugin\DllDependencies\Assembly-CSharp_publicized.dll</HintPath>
     </Reference>
     <Reference Include="BouncyCastle.Crypto, Version=1.8.6.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
       <SpecificVersion>False</SpecificVersion>
@@ -69,23 +69,32 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>C:\Users\g2546\Downloads\Compressed\ReferencePublicBeta\CommandSystem.Core.dll</HintPath>
     </Reference>
-    <Reference Include="Exiled.API, Version=2.1.19.0, Culture=neutral, processorArchitecture=AMD64">
-      <HintPath>packages\EXILED.2.1.19\lib\net472\Exiled.API.dll</HintPath>
+    <Reference Include="Exiled.API, Version=4.2.3.0, Culture=neutral, processorArchitecture=AMD64">
+      <HintPath>packages\EXILED.4.2.3\lib\net472\Exiled.API.dll</HintPath>
     </Reference>
-    <Reference Include="Exiled.Bootstrap, Version=2.1.19.0, Culture=neutral, processorArchitecture=AMD64">
-      <HintPath>packages\EXILED.2.1.19\lib\net472\Exiled.Bootstrap.dll</HintPath>
+    <Reference Include="Exiled.Bootstrap, Version=4.2.3.0, Culture=neutral, processorArchitecture=AMD64">
+      <HintPath>packages\EXILED.4.2.3\lib\net472\Exiled.Bootstrap.dll</HintPath>
     </Reference>
-    <Reference Include="Exiled.Events, Version=2.1.19.0, Culture=neutral, processorArchitecture=AMD64">
-      <HintPath>packages\EXILED.2.1.19\lib\net472\Exiled.Events.dll</HintPath>
+    <Reference Include="Exiled.CreditTags, Version=4.2.3.0, Culture=neutral, processorArchitecture=AMD64">
+      <HintPath>packages\EXILED.4.2.3\lib\net472\Exiled.CreditTags.dll</HintPath>
     </Reference>
-    <Reference Include="Exiled.Loader, Version=2.1.19.0, Culture=neutral, processorArchitecture=AMD64">
-      <HintPath>packages\EXILED.2.1.19\lib\net472\Exiled.Loader.dll</HintPath>
+    <Reference Include="Exiled.CustomItems, Version=4.2.3.0, Culture=neutral, processorArchitecture=AMD64">
+      <HintPath>packages\EXILED.4.2.3\lib\net472\Exiled.CustomItems.dll</HintPath>
     </Reference>
-    <Reference Include="Exiled.Permissions, Version=2.1.19.0, Culture=neutral, processorArchitecture=AMD64">
-      <HintPath>packages\EXILED.2.1.19\lib\net472\Exiled.Permissions.dll</HintPath>
+    <Reference Include="Exiled.CustomRoles, Version=4.2.3.0, Culture=neutral, processorArchitecture=AMD64">
+      <HintPath>packages\EXILED.4.2.3\lib\net472\Exiled.CustomRoles.dll</HintPath>
     </Reference>
-    <Reference Include="Exiled.Updater, Version=3.0.3.0, Culture=neutral, processorArchitecture=AMD64">
-      <HintPath>packages\EXILED.2.1.19\lib\net472\Exiled.Updater.dll</HintPath>
+    <Reference Include="Exiled.Events, Version=4.2.3.0, Culture=neutral, processorArchitecture=AMD64">
+      <HintPath>packages\EXILED.4.2.3\lib\net472\Exiled.Events.dll</HintPath>
+    </Reference>
+    <Reference Include="Exiled.Loader, Version=4.2.3.0, Culture=neutral, processorArchitecture=AMD64">
+      <HintPath>packages\EXILED.4.2.3\lib\net472\Exiled.Loader.dll</HintPath>
+    </Reference>
+    <Reference Include="Exiled.Permissions, Version=4.2.3.0, Culture=neutral, processorArchitecture=AMD64">
+      <HintPath>packages\EXILED.4.2.3\lib\net472\Exiled.Permissions.dll</HintPath>
+    </Reference>
+    <Reference Include="Exiled.Updater, Version=3.1.1.0, Culture=neutral, processorArchitecture=AMD64">
+      <HintPath>packages\EXILED.4.2.3\lib\net472\Exiled.Updater.dll</HintPath>
     </Reference>
     <Reference Include="Mirror_publicized">
       <HintPath>C:\Users\g2546\Downloads\Compressed\ReferencePublicBeta\Mirror_publicized.dll</HintPath>

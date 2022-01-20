@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "86b1a528-238d-4210-9435-d9cff349646e": {
+      "ProjectGuid": "86b1a528-238d-4210-9435-d9cff349646e",
+      "DisplayName": "GlobalBadgeForceShow",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
