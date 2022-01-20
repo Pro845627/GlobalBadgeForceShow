@@ -1,7 +1,6 @@
 # Description - 描述
-* Prevents server plugins from changing global badges of players
-
-
+* Prevents server plugins cover player's badge whose type is global.
+* 避免服务器插件覆盖玩家的全球称号
 
 # Usage - 使用方法
 * Put `GlobalBadgeForceShow.dll` in `EXILED\Plugins`
